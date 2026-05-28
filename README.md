@@ -1,5 +1,5 @@
 ```mermaid
-flowchart HD
+flowchart LR
 
 A([Change identified by any team])
 
